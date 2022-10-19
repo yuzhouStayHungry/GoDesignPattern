@@ -1,7 +1,6 @@
-package singleton_test
+package singleton
 
 import (
-	singleton "github.com/yuzhoustayhungry/GoDesignPattern/singleton"
 	"testing"
 )
 
